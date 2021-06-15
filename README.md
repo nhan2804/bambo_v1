@@ -2,6 +2,48 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Structure Folder
+
+### `app`
+
+Chứa data i18n,store Redux ToolKit...;
+
+### `assets`
+
+Hình ảnh, những thứ file tĩnh
+
+### `component`
+
+Chứa các component chung(Header...)
+
+### `config`
+
+config network,route...
+
+### `constant`
+
+Lưu các hằng, các defines
+
+### `helper`
+
+chứa Class and function helper
+
+### `hooks`
+
+Dùng các hooks chung
+
+### `hooks`
+
+Dùng các hooks chung
+
+### `modules`
+
+Chứa modules
+
+### `route`
+
+Get tất cả route
+
 ## Available Scripts
 
 In the project directory, you can run:
